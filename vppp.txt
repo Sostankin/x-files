@@ -1,12 +1,1 @@
-
-
-
-
-
-
-print("3")
-
-
-
-
-print("11")
+print("oooooooo")
