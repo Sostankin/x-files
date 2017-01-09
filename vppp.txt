@@ -1,1 +1,1 @@
-proverka
+print("11111")
